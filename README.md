@@ -1,1 +1,1 @@
-# udemy_docker_kubs
+# 【한글자막】 Docker & Kubernetes : 실전 가이드 강의 스터디 내용
